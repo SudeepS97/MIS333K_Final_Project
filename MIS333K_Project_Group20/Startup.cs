@@ -27,7 +27,7 @@ namespace MIS333K_Project_Group20
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World! github Test");
+                await context.Response.WriteAsync("Hello World!");
             });
         }
     }
