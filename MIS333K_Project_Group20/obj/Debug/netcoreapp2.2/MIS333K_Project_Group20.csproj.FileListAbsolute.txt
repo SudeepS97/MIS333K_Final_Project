@@ -1,0 +1,16 @@
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\bin\Debug\netcoreapp2.2\MIS333K_Project_Group20.deps.json
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\bin\Debug\netcoreapp2.2\MIS333K_Project_Group20.runtimeconfig.json
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\bin\Debug\netcoreapp2.2\MIS333K_Project_Group20.runtimeconfig.dev.json
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\bin\Debug\netcoreapp2.2\MIS333K_Project_Group20.dll
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\bin\Debug\netcoreapp2.2\MIS333K_Project_Group20.pdb
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\obj\Debug\netcoreapp2.2\MIS333K_Project_Group20.csprojAssemblyReference.cache
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\obj\Debug\netcoreapp2.2\MIS333K_Project_Group20.RazorAssemblyInfo.cache
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\obj\Debug\netcoreapp2.2\MIS333K_Project_Group20.RazorAssemblyInfo.cs
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\obj\Debug\netcoreapp2.2\MIS333K_Project_Group20.AssemblyInfoInputs.cache
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\obj\Debug\netcoreapp2.2\MIS333K_Project_Group20.AssemblyInfo.cs
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\obj\Debug\netcoreapp2.2\MIS333K_Project_Group20.RazorTargetAssemblyInfo.cache
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\obj\Debug\netcoreapp2.2\MIS333K_Project_Group20.dll
+C:\Users\sudee\Documents\School\Semester 7\MIS 333K - Web Aplication Dev\MIS333K_Final_Project\MIS333K_Project_Group20\obj\Debug\netcoreapp2.2\MIS333K_Project_Group20.pdb
